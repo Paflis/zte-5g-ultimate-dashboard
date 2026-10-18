@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ZTE Router Ultimate Dashboard (v13.1 Final)
+// @name         ZTE Router Ultimate Dashboard (v13.1)
 // @namespace    http://tampermonkey.net/
 // @version      13.1
 // @description  Full Dashboard with Bandwidth, EARFCN, Temps, Cell Locks, Version Info, and Clear Exit Button.
